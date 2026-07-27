@@ -8,3 +8,5 @@ In this phase, we set up our team workflow using Google Docs for writing the rep
 ## Project Links
 * **Live Report (Google Doc):** [Google Doc Link](https://docs.google.com/document/d/1uVAgCcYBV1Ji68A2eY9BIsnmcW1BFuxsjiBXrE-WLSg/edit?usp=sharing)
 * **GitHub Repository:** https://github.com/ru0dy/Computer-Networks-Project
+<img width="960" height="600" alt="Screenshot 2026-07-28 012215" src="https://github.com/user-attachments/assets/ba037e06-2a29-458c-837c-319c4e7fecec" />
+The program is downloaded
