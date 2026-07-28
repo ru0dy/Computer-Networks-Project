@@ -10,3 +10,8 @@ In this phase, we set up our team workflow using Google Docs for writing the rep
 * **GitHub Repository:** https://github.com/ru0dy/Computer-Networks-Project
 <img width="960" height="600" alt="Screenshot 2026-07-28 012215" src="https://github.com/user-attachments/assets/ba037e06-2a29-458c-837c-319c4e7fecec" />
 The program is downloaded
+
+| Problem Encountered | Description & Impact | Status | Resolution / Action |
+| :--- | :--- | :--- | :--- |
+| **Interface Down Status** | Router interfaces remained in 'Link Down' state when connected to switches. | **Resolved** | Verified cable types (Copper Straight-Through) and executed the `no shutdown` command on the router interfaces. |
+| **File Synchronization** | Difficulty coordinating simultaneous edits on the `.pkt` simulation file. | **Resolved** | Initialized this GitHub repository to track changes and manage file versions effectively. |
